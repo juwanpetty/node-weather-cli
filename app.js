@@ -30,5 +30,3 @@ geocode.geocodeAddress(argv.address, (errorMessage, results) => {
         });
     }
 });
-
-// lat, lng, callback
